@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivana818&label=Profile%20views&color=0e75b6&style=flat" alt="ivana818" /> </p>
+
 - 🔭 I’m currently working on automation and optimization <br>
 - ⚡ Fun fact I don't like sas and vba but I work with them
 <p align="left">
@@ -28,6 +29,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivana818&show_icons=true&locale=en" alt="ivana818" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivana818&show_icons=true&locale=en&layout=compact" alt="ivana818" /></p>
 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivana818&" alt="ivana818" /></p>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ivana818&" alt="ivana818" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivana818&show_icons=true&locale=en&layout=compact" alt="ivana818" />
 
 ![snake gif](https://github.com/Ivana818/Ivana818/blob/output/github-snake.svg)
