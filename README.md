@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivana818&label=Profile%20views&color=0e75b6&style=flat" alt="ivana818" /> </p>
 
-- 🔭 I’m currently working on automation and optimization <br>
-- ⚡ Fun fact I don't like sas and vba but I work with them
+🔭 I’m currently working on automation and optimization <br>
 <p align="left">
 </p>
 
